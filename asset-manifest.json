@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spotify-tailwin/static/css/main.0d38fc7d.css",
+    "main.js": "/Spotify-tailwin/static/js/main.9c275a0f.js",
+    "static/js/787.a19c38e9.chunk.js": "/Spotify-tailwin/static/js/787.a19c38e9.chunk.js",
+    "index.html": "/Spotify-tailwin/index.html",
+    "main.0d38fc7d.css.map": "/Spotify-tailwin/static/css/main.0d38fc7d.css.map",
+    "main.9c275a0f.js.map": "/Spotify-tailwin/static/js/main.9c275a0f.js.map",
+    "787.a19c38e9.chunk.js.map": "/Spotify-tailwin/static/js/787.a19c38e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d38fc7d.css",
+    "static/js/main.9c275a0f.js"
+  ]
+}
